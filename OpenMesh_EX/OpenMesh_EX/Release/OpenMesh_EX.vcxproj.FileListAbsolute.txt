@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\基礎電腦圖學\OpenMesh_EX\OpenMesh_EX\Release\OpenMesh_EX.vcxprojAssemblyReference.cache
+C:\Users\User\Desktop\基礎電腦圖學\OpenMesh_EX\OpenMesh_EX\Release\OpenMesh_EX.MyForm.resources
+C:\Users\User\Desktop\基礎電腦圖學\OpenMesh_EX\OpenMesh_EX\Release\OpenMesh_EX.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\基礎電腦圖學\OpenMesh_EX\OpenMesh_EX\Release\OpenMesh_EX.vcxproj.CopyComplete
+C:\Users\PC14\Desktop\O\OpenMesh_EX\OpenMesh_EX\Release\OpenMesh_EX.vcxproj.AssemblyReference.cache
+C:\Users\PC14\Desktop\O\OpenMesh_EX\OpenMesh_EX\Release\OpenMesh_EX.MyForm.resources
+C:\Users\PC14\Desktop\O\OpenMesh_EX\OpenMesh_EX\Release\OpenMesh_EX.vcxproj.GenerateResource.cache
+C:\Users\PC14\Desktop\O\OpenMesh_EX\OpenMesh_EX\Release\OpenMesh_EX.vcxproj.CopyComplete

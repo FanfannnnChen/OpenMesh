@@ -1,0 +1,9 @@
+﻿  DrawModelShader.cpp
+  GLM: GLM_SWIZZLE is deprecated, use GLM_FORCE_SWIZZLE instead.
+  ViewManager.cpp
+  GLM: GLM_SWIZZLE is deprecated, use GLM_FORCE_SWIZZLE instead.
+C:\Users\PC14\Desktop\O\OpenMesh_EX\OpenMesh_EX\Source\ViewManager.cpp(134,14): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\PC14\Desktop\O\OpenMesh_EX\OpenMesh_EX\Source\ViewManager.cpp(139,14): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\PC14\Desktop\O\OpenMesh_EX\OpenMesh_EX\Source\ViewManager.cpp(283,18): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+  OpenMesh_EX.vcxproj -> C:\Users\PC14\Desktop\O\OpenMesh_EX\Release\OpenMesh_EX.exe
