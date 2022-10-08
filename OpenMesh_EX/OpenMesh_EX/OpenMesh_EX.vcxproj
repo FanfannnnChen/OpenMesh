@@ -113,6 +113,7 @@
     <ClInclude Include="Source\DrawModelShader.h" />
     <ClInclude Include="Source\MeshObject.h" />
     <ClInclude Include="Source\OpenMesh.h" />
+    <ClInclude Include="Source\TryMe.h" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MyForm.resx">

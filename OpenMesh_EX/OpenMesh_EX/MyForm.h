@@ -168,11 +168,11 @@ namespace OpenMesh_EX {
 #pragma endregion
 private: System::Void hkoglPanelControl1_Load(System::Object^  sender, System::EventArgs^  e)
 {
-
+	//test();
 }
 private: System::Void hkoglPanelControl1_Paint(System::Object^  sender, System::Windows::Forms::PaintEventArgs^  e)
 {
-	glEnable(GL_COLOR_MATERIAL);
+	/*glEnable(GL_COLOR_MATERIAL);
 	glClearColor(1.0, 1.0, 1.0, 1.0);
 	glClear(GL_COLOR_BUFFER_BIT);
 
@@ -187,8 +187,12 @@ private: System::Void hkoglPanelControl1_Paint(System::Object^  sender, System::
 	glMultMatrixd((double *)xf);
 	if (mesh != NULL)
 		mesh->Render_SolidWireframe();
-	glPopMatrix();
+	glPopMatrix();*/
+
+
 }
+
+#pragma region Camera Controller
 private: System::Void hkoglPanelControl1_MouseDown(System::Object^  sender, System::Windows::Forms::MouseEventArgs^  e)
 {
 	if (e->Button == System::Windows::Forms::MouseButtons::Left ||
@@ -259,6 +263,9 @@ private: System::Void hkoglPanelControl1_MouseWheel(System::Object^  sender, Sys
 		hkoglPanelControl1->Invalidate();
 	}
 }
+#pragma endregion
+
+#pragma region Load/Save Model
 private: System::Void loadModelToolStripMenuItem_Click(System::Object^  sender, System::EventArgs^  e)
 {
 	openModelDialog->Filter = "Model(*.obj)|*obj";
@@ -293,5 +300,7 @@ private: System::Void saveModelDialog_FileOk(System::Object^  sender, System::Co
 	if (SaveFile(filename, mesh))
 		std::cout << filename << std::endl;
 }
+#pragma endregion
+
 };
 }

@@ -6,3 +6,7 @@ C:\Users\PC14\Desktop\O\OpenMesh_EX\OpenMesh_EX\Release\OpenMesh_EX.vcxproj.Asse
 C:\Users\PC14\Desktop\O\OpenMesh_EX\OpenMesh_EX\Release\OpenMesh_EX.MyForm.resources
 C:\Users\PC14\Desktop\O\OpenMesh_EX\OpenMesh_EX\Release\OpenMesh_EX.vcxproj.GenerateResource.cache
 C:\Users\PC14\Desktop\O\OpenMesh_EX\OpenMesh_EX\Release\OpenMesh_EX.vcxproj.CopyComplete
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\OpenMesh_EX\Release\OpenMesh_EX.vcxproj.AssemblyReference.cache
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\OpenMesh_EX\Release\OpenMesh_EX.MyForm.resources
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\OpenMesh_EX\Release\OpenMesh_EX.vcxproj.GenerateResource.cache
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\OpenMesh_EX\Release\OpenMesh_EX.vcxproj.CopyComplete
