@@ -83,6 +83,9 @@
     <ClInclude Include="Source\TryMe.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
+    <ClInclude Include="Source\TryMe02.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MyForm.resx">

@@ -1,3 +1,39 @@
 ﻿  MyForm.cpp
+  GLM: GLM_SWIZZLE is deprecated, use GLM_FORCE_SWIZZLE instead.
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(233,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(629,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(1013,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\OpenMesh_EX\Mesh\timestamp.h(14,1): warning C4005: 'WIN32_LEAN_AND_MEAN': 巨集重複定義
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\FreeGLUT\freeglut_std.h(58): message : 請參閱 'WIN32_LEAN_AND_MEAN' 之前的定義
 C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\OpenMesh_EX\MyForm.cpp(6,1): warning C4829: 函式 main 的參數可能不正確。請考慮 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(359): warning C4793: '`anonymous namespace'::stbiw__outfile': 函式會編譯成機器碼:
+  	在 /clr 下不支援 varargs
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(364): warning C4793: '`anonymous namespace'::stbiw__outfile': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(366): warning C4793: '`anonymous namespace'::stbiw__outfile': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(259): warning C4793: '`anonymous namespace'::stbiw__writefv': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(262): warning C4793: '`anonymous namespace'::stbiw__writefv': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(268): warning C4793: '`anonymous namespace'::stbiw__writefv': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(284): warning C4793: '`anonymous namespace'::stbiw__writef': 函式會編譯成機器碼:
+  	在 /clr 下不支援 varargs
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(286): warning C4793: '`anonymous namespace'::stbiw__writef': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(288): warning C4793: '`anonymous namespace'::stbiw__writef': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(259): warning C4793: '`anonymous namespace'::stbiw__writefv': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(262): warning C4793: '`anonymous namespace'::stbiw__writefv': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(268): warning C4793: '`anonymous namespace'::stbiw__writefv': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(259): warning C4793: '`anonymous namespace'::stbiw__writefv': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(262): warning C4793: '`anonymous namespace'::stbiw__writefv': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Include\STB\stb_image_write.h(268): warning C4793: '`anonymous namespace'::stbiw__writefv': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
   OpenMesh_EX.vcxproj -> C:\Users\PC14\Desktop\OpenMEShit\OpenMesh_EX\Release\OpenMesh_EX.exe

@@ -114,6 +114,7 @@
     <ClInclude Include="Source\MeshObject.h" />
     <ClInclude Include="Source\OpenMesh.h" />
     <ClInclude Include="Source\TryMe.h" />
+    <ClInclude Include="Source\TryMe02.h" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MyForm.resx">

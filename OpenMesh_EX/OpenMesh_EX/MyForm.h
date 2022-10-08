@@ -1,8 +1,10 @@
 #pragma once
 
+#include "Source/TryMe02.h"
 #include "DotNetUtilities.h"
 #include "Mesh/GUA_OM.h"
 #include "Mesh/DP.h"
+
 
 Tri_Mesh *mesh;
 
@@ -168,7 +170,26 @@ namespace OpenMesh_EX {
 #pragma endregion
 private: System::Void hkoglPanelControl1_Load(System::Object^  sender, System::EventArgs^  e)
 {
-	//test();
+	GLenum err = glewInit();
+	if (GLEW_OK != err)
+	{
+		cout << "GLEW is not initialized! \n";
+		return;
+	}
+
+	TryMe02 testa;
+	
+	std::cout << "Test~~~~~~~~~~~~--------------" << std::endl;
+	
+	testa.InitOpenGL();
+	std::cout << "Test~~InitOpenGL--------------" << std::endl;
+
+	testa.InitData();
+	std::cout << "Test~~InitData-------------------------" << std::endl;
+	
+	testa.My_LoadModel();
+	std::cout << "Test~~My_LoadModel-------------------------" << std::endl;
+
 }
 private: System::Void hkoglPanelControl1_Paint(System::Object^  sender, System::Windows::Forms::PaintEventArgs^  e)
 {

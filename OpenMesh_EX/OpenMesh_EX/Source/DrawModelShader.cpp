@@ -18,17 +18,17 @@ bool DrawModelShader::Init()
 		return false;
 	}
 
-	if (!AddShader(GL_VERTEX_SHADER, ResourcePath::shaderPath + "drawModel.vs.glsl"))
+	if (!AddShader(GL_VERTEX_SHADER, "C:\\Users\\PC14\\Desktop\\OpenMEShit\\OpenMesh_EX\\OpenMesh_EX\\Shader\\drawModel.vs.glsl"))
 	{
 		return false;
 	}
 
-	if (!AddShader(GL_GEOMETRY_SHADER, ResourcePath::shaderPath + "drawModel.gs.glsl"))
+	if (!AddShader(GL_GEOMETRY_SHADER, "C:\\Users\\PC14\\Desktop\\OpenMEShit\\OpenMesh_EX\\OpenMesh_EX\\Shader\\drawModel.gs.glsl"))
 	{
 		return false;
 	}
 
-	if (!AddShader(GL_FRAGMENT_SHADER, ResourcePath::shaderPath + "drawModel.fs.glsl"))
+	if (!AddShader(GL_FRAGMENT_SHADER, "C:\\Users\\PC14\\Desktop\\OpenMEShit\\OpenMesh_EX\\OpenMesh_EX\\Shader\\drawModel.fs.glsl"))
 	{
 		return false;
 	}
